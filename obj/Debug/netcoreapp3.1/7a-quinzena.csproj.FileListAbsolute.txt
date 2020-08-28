@@ -1,0 +1,11 @@
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\bin\Debug\netcoreapp3.1\7a-quinzena.exe
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\bin\Debug\netcoreapp3.1\7a-quinzena.deps.json
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\bin\Debug\netcoreapp3.1\7a-quinzena.runtimeconfig.json
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\bin\Debug\netcoreapp3.1\7a-quinzena.runtimeconfig.dev.json
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\bin\Debug\netcoreapp3.1\7a-quinzena.dll
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\bin\Debug\netcoreapp3.1\7a-quinzena.pdb
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\obj\Debug\netcoreapp3.1\7a-quinzena.csprojAssemblyReference.cache
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\obj\Debug\netcoreapp3.1\7a-quinzena.AssemblyInfoInputs.cache
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\obj\Debug\netcoreapp3.1\7a-quinzena.AssemblyInfo.cs
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\obj\Debug\netcoreapp3.1\7a-quinzena.dll
+C:\Users\ggonp\Desktop\Arquivos\Programação\ETEC\Prog. Web II\7a-quinzena\obj\Debug\netcoreapp3.1\7a-quinzena.pdb
